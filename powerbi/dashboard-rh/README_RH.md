@@ -23,7 +23,7 @@ Dashboard interativo desenvolvido no Power BI para análise de métricas de RH, 
 - ✅ Campos de busca para localizar funcionários específicos
 
 ## 📂 Arquivos
-- `dashboard-rh.pbix` - Arquivo fonte do Power BI
+- `Dashboard RH.pbix` - Arquivo fonte do Power BI
 
 ## 🚀 Como Utilizar
 1. Baixe o arquivo `.pbix`
