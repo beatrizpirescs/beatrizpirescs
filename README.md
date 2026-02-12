@@ -22,7 +22,7 @@ Formada em Gestão de TI, trabalho diariamente com **SQL** para análise de dado
 
 ### 📌 Projetos
 
-🔹 **[Dashboard Recursos Humanos - Power BI](https://github.com/beatrizpirescs/beatrizpirescs/tree/main/powerbi/dashboard-rh)**  
+🔹 **[Dashboard Recursos Humanos - Power BI](https://github.com/beatrizpirescs/beatrizpirescs/blob/main/powerbi/dashboard-rh/README_RH.md)**  
 Dashboard para análise de métricas de RH, com visualização de diferentes indicadores, como funcionários, salários e frequência.
 
 🔹 **[Otimização de Queries SQL](https://github.com/beatrizpirescs/sql-optimization)**  
