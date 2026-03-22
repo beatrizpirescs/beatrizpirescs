@@ -28,5 +28,4 @@ Dashboard interativo desenvolvido no Power BI para análise de métricas de RH, 
 ## 🚀 Como Utilizar
 1. Baixe o arquivo `.pbix`
 2. Abra no Power BI Desktop
-3. Conecte sua base de dados ou use os dados de exemplo
-4. Explore as análises e filtros disponíveis
+3. Explore as análises e filtros disponíveis
